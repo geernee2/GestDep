@@ -1,0 +1,7 @@
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\obj\Debug\HellowWorld.csprojAssemblyReference.cache
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\Edgar\Source\Repos\proyectoISW\ProyectoPracticas\HellowWorld\obj\Debug\HellowWorld.pdb
